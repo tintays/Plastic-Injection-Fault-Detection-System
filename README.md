@@ -1,6 +1,5 @@
 # Plastic-Injection-Fault-Detection-System
 
-## Overview
 This system is designed to provide a user-friendly graphical interface that indicates potential failures in a plastic injection system. By leveraging machine sensors, real-time data is collected and displayed, enabling early detection of possible failures. This proactive approach helps prevent production downtime and machine breakdowns. This project was developed by Josue Noel Lopez Guevara @tintays and Manuel Alejandro Juarez Juarez, both students from Universidad Tecnologica La Salle (La Salle Technological University), Leon, Nicaragua.
 
 ## Features
